@@ -1,26 +1,19 @@
 # Aufgabenbereiche
 
 ## Daniel:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] UML-Diagramm
 
 ## Yasin:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] UI-Design
 
 ## Spanner:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] UseCase-Diagramme
 
 ## Max:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] UI-Design
 
 ## Jerin:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] UseCase-Diagramme
+
+## Alex:
+- [ ] UML-Diagramm
